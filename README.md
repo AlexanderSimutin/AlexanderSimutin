@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlexanderSimutin
+- 👀 I’m interested in computer games
+- 🌱 I’m currently learning Unity and C#
+- 💞️ I’m looking to collaborate on game development 
+- 📫 How to reach me AlexanderSimutin@gmail.com
